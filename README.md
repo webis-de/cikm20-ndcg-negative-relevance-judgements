@@ -22,3 +22,5 @@ This repository consists of three notebooks:
 All dependencies required to run the experiments (including jupyter itself) can be installed using the supplied [`requirements.txt`](requirements.txt).
 
 The qrel & run data can be obtained from the [TREC website](https://trec.nist.gov). They are not shared here due to size & unclear licensing.
+
+Any modifications to the code will be merged directly into the master branch; the original code for the paper is archived as [`1.0.0`](https://github.com/webis-de/cikm20-ndcg-negative-relevance-judgements/releases/tag/1.0.0) release.
